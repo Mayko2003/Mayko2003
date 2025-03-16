@@ -3,8 +3,6 @@
 **Fullstack Developer | Especialista en Node.js**  
 Me apasiona el desarrollo web y disfruto resolviendo problemas para crear soluciones prácticas y eficientes. Actualmente trabajo como desarrollador Fullstack en Node.js utilizando el lenguaje Typescript y librerias como React y NestJS.
 
----
-
 ## 🛠️ Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) 
@@ -20,15 +18,11 @@ Me apasiona el desarrollo web y disfruto resolviendo problemas para crear soluci
 ![Nx](https://img.shields.io/badge/Nx-143055?logo=nrwl&logoColor=white) 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
----
-
 ## 💡 Intereses
 
 - Creación de aplicaciones con enfoque en microservicios.
 - Crear aplicaciones escalables y seguras.
 - Aprender y aplicar nuevas técnicas de desarrollo web.
-
----
 
 ## 📬 Contáctame
 
