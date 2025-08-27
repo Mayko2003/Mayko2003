@@ -21,9 +21,10 @@ Me apasiona el desarrollo web y disfruto resolviendo problemas para crear soluci
 - Creación de aplicaciones con enfoque en microservicios.
 - Crear aplicaciones escalables y seguras.
 - Aprender y aplicar nuevas técnicas de desarrollo web.
+- Crear aplicaciones de inteligencia artificial.
 
 ## 📬 Contáctame
 
 - 📧 Correo: [maykox34f@gmail.com](mailto:maykox34f@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/Mayko2003](https://linkedin.com/in/Mayko2003)
-- 🌐 Portafolio: [portfolio.mayko.info](https://portfolio.mayko.info)
+- 🌐 Portafolio: [https://vercel.com/maykos-projects-37631367/portfolio)
