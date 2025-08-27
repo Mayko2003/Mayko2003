@@ -12,9 +12,7 @@ Me apasiona el desarrollo web y disfruto resolviendo problemas para crear soluci
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
 ![Nx](https://img.shields.io/badge/Nx-143055?logo=nrwl&logoColor=white) 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
