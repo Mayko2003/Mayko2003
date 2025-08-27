@@ -15,7 +15,7 @@ Me apasiona el desarrollo web y disfruto resolviendo problemas para crear soluci
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
 ![Nx](https://img.shields.io/badge/Nx-143055?logo=nrwl&logoColor=white) 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF6600?logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
 ## 💡 Intereses
 
