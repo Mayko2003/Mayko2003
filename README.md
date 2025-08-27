@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Fernandez Mayko 
 
 **Fullstack Developer | Especialista en Node.js**  
-Me apasiona el desarrollo web y disfruto resolviendo problemas para crear soluciones prácticas y eficientes. Actualmente trabajo como desarrollador Fullstack en Node.js utilizando el lenguaje Typescript y librerias como React y NestJS.
+Me apasiona el desarrollo web y disfruto resolviendo problemas para crear soluciones prácticas y eficientes. Actualmente trabajo como desarrollador Fullstack en Node.js utilizando el lenguaje Typescript con React y NestJS.
 
 ## 🛠️ Stack
 
