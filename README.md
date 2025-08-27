@@ -27,4 +27,4 @@ Me apasiona el desarrollo web y disfruto resolviendo problemas para crear soluci
 
 - 📧 Correo: [maykox34f@gmail.com](mailto:maykox34f@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/Mayko2003](https://linkedin.com/in/Mayko2003)
-- 🌐 Portafolio: [portfolio](portfolio-six-theta-qc87fbtgmk.vercel.app)
+- 🌐 Portafolio: [portfolio](https://portfolio-six-theta-qc87fbtgmk.vercel.app/)
