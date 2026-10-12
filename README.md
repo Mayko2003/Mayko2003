@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,react,py,solana" height="42" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,react,py,solana,docker,linux" height="42" alt="stack"/>
 
 <h3>stats</h3>
 
