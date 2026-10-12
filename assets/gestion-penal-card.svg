@@ -18,19 +18,15 @@
     <g transform="translate(30, 65)" style="font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;">
       <g transform="translate(0, 0)">
         <circle cx="0" cy="-5" r="6" fill="#f1e05a"/>
-        <text x="15" y="0">nodejs</text>
+        <text x="15" y="0">Node.js</text>
       </g>
-      <g transform="translate(85, 0)">
+      <g transform="translate(90, 0)">
         <circle cx="0" cy="-5" r="6" fill="#61dafb"/>
-        <text x="15" y="0">react</text>
+        <text x="15" y="0">React</text>
       </g>
-      <g transform="translate(160, 0)">
+      <g transform="translate(165, 0)">
         <circle cx="0" cy="-5" r="6" fill="#3572A5"/>
-        <text x="15" y="0">python</text>
-      </g>
-      <g transform="translate(245, 0)">
-        <circle cx="0" cy="-5" r="6" fill="#bb9af7"/>
-        <text x="15" y="0">integración ia</text>
+        <text x="15" y="0">Python</text>
       </g>
     </g>
   </g>

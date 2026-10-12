@@ -18,19 +18,19 @@
     <g transform="translate(30, 65)" style="font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;">
       <g transform="translate(0, 0)">
         <circle cx="0" cy="-5" r="6" fill="#ff9e64"/>
-        <text x="15" y="0">web3</text>
+        <text x="15" y="0">Web3</text>
       </g>
       <g transform="translate(70, 0)">
         <circle cx="0" cy="-5" r="6" fill="#9945FF"/>
-        <text x="15" y="0">solana</text>
+        <text x="15" y="0">Solana</text>
       </g>
-      <g transform="translate(150, 0)">
+      <g transform="translate(155, 0)">
         <circle cx="0" cy="-5" r="6" fill="#e4e2e2"/>
-        <text x="15" y="0">next</text>
+        <text x="15" y="0">Next.js</text>
       </g>
-      <g transform="translate(215, 0)">
+      <g transform="translate(240, 0)">
         <circle cx="0" cy="-5" r="6" fill="#3ECF8E"/>
-        <text x="15" y="0">supabase</text>
+        <text x="15" y="0">Supabase</text>
       </g>
     </g>
   </g>
