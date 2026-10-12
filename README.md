@@ -26,7 +26,7 @@
 
 <h3>contacto</h3>
 
-<a href="mailto:maykox34f@gmail.com">mail</a> · <a href="https://www.linkedin.com/in/Mayko2003">linkedin</a> · <a href="https://portfolio-six-theta-qc87fbtgmk.vercel.app">portfolio</a>
+<a href="mailto:maykox34f@gmail.com">mail</a> · <a href="https://www.linkedin.com/in/Mayko2003">linkedin</a> · <a href="https://portfolio-mayko2003.vercel.app">portfolio</a>
 
 <br/><br/>
 
