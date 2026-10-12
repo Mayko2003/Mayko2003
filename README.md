@@ -30,6 +30,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mayko2003&color=8b5cf6&style=for-the-badge&label=VISITAS" alt="visitas"/>
+<img src="https://komarev.com/ghpvc/?username=Mayko2003&color=bb9af7&style=flat-square&label=visitas" alt="visitas"/>
 
 </div>
