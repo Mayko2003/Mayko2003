@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,react,py,solana,docker,linux" height="42" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,react,py" height="42" alt="stack"/> <img src="https://cdn.simpleicons.org/solana" height="42" width="42" alt="solana"/> <img src="https://skillicons.dev/icons?i=docker,linux" height="42" alt="docker, linux"/>
 
 <h3>stats</h3>
 
