@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=190&section=header&text=Mayko%20Fernandez&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=software%20developer%20%E2%80%94%20node.js%20%C2%B7%20typescript%20%C2%B7%20web3&descAlignY=54&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=190&section=header&text=Mayko%20Fernandez&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=software%20developer%20%E2%80%94%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20Web3&descAlignY=54&descSize=17"/>
 
 <a href="https://github.com/Mayko2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=540&lines=software+developer+%C2%B7+3+a%C3%B1os+de+experiencia;nestjs+%C2%B7+react+%C2%B7+python+(a+ratos);web3+%E2%80%94+construyendo+sobre+solana" alt="Mayko Fernandez"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=540&lines=software+developer+%C2%B7+3+a%C3%B1os+de+experiencia;NestJS+%C2%B7+React+%C2%B7+Python+(a+ratos);Web3+%E2%80%94+construyendo+sobre+Solana" alt="Mayko Fernandez"/>
 </a>
 
 <br/><br/>
