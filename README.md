@@ -21,16 +21,12 @@
 
 <h3>proyectos destacados</h3>
 
-<a href="https://github.com/YagLab0/julit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YagLab0&repo=julit&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" alt="julit"/></a>
-<a href="https://github.com/Mayko2003/fsmet-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayko2003&repo=fsmet-page&theme=tokyonight&hide_border=true&description_lines_count=2" alt="fsmet"/></a>
+<a href="https://github.com/YagLab0/julit"><img src="./assets/julit-card.svg" alt="julit"/></a>
+<a href="https://github.com/Mayko2003/fsmet-page"><img src="./assets/fsmet-card.svg" alt="fsmet"/></a>
 <a href="https://gestion.mpajujuy.gob.ar/"><img src="./assets/gestion-penal-card.svg" alt="gestión penal — mpa jujuy"/></a>
 
 <h3>contacto</h3>
 
 <a href="mailto:maykox34f@gmail.com">mail</a> · <a href="https://www.linkedin.com/in/Mayko2003">linkedin</a> · <a href="https://portfolio-mayko2003.vercel.app">portfolio</a>
-
-<br/><br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Mayko2003.Mayko2003&left_color=%231a1b27&right_color=%23bb9af7&left_text=visitas&format=true" alt="visitas"/>
 
 </div>
