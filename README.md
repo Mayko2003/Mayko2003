@@ -21,9 +21,9 @@
 
 <h3>proyectos destacados</h3>
 
-<a href="https://github.com/YagLab0/julit"><img src="./assets/julit-card.svg" alt="julit"/></a>
-<a href="https://github.com/Mayko2003/fsmet-page"><img src="./assets/fsmet-card.svg" alt="fsmet"/></a>
-<a href="https://gestion.mpajujuy.gob.ar/"><img src="./assets/gestion-penal-card.svg" alt="gestión penal — mpa jujuy"/></a>
+<a href="https://github.com/YagLab0/julit"><img src="./assets/julit-card.svg?v=2" alt="Julit"/></a>
+<a href="https://github.com/Mayko2003/fsmet-page"><img src="./assets/fsmet-card.svg?v=2" alt="FSMET"/></a>
+<a href="https://gestion.mpajujuy.gob.ar/"><img src="./assets/gestion-penal-card.svg?v=2" alt="Gestión Penal — MPA Jujuy"/></a>
 
 <h3>contacto</h3>
 

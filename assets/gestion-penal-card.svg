@@ -7,13 +7,13 @@
       </svg>
     </g>
     <g transform="translate(25, 0)">
-      <text x="0" y="0" style="font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd;">gestión penal — mpa jujuy</text>
+      <text x="0" y="0" style="font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd;">Gestión Penal — MPA Jujuy</text>
     </g>
   </g>
   <g transform="translate(0, 55)">
     <text x="25" y="-5" style="font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;">
-      <tspan dy="1.2em" x="25">sistema de gestión de procesos penales</tspan>
-      <tspan dy="1.2em" x="25">ministerio público de la acusación · jujuy</tspan>
+      <tspan dy="1.2em" x="25">Sistema de gestión de procesos penales</tspan>
+      <tspan dy="1.2em" x="25">Ministerio Público de la Acusación · Jujuy</tspan>
     </text>
     <g transform="translate(30, 65)" style="font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;">
       <g transform="translate(0, 0)">
