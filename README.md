@@ -23,6 +23,7 @@
 
 <a href="https://github.com/YagLab0/julit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YagLab0&repo=julit&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=2" alt="julit"/></a>
 <a href="https://github.com/Mayko2003/fsmet-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayko2003&repo=fsmet-page&theme=tokyonight&hide_border=true&description_lines_count=2" alt="fsmet"/></a>
+<a href="https://gestion.mpajujuy.gob.ar/"><img src="./assets/gestion-penal-card.svg" alt="gestión penal — mpa jujuy"/></a>
 
 <h3>contacto</h3>
 
